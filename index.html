@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WAYNE Chat Assistant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <header>
+            <h1>WAYNE Assistant</h1>
+        </header>
+        
+        <div class="chat-box" id="chatBox">
+            <!-- Messages will appear here -->
+        </div>
+        
+        <div class="input-area">
+            <input type="text" id="userInput" placeholder="Ask me anything...">
+            <button id="sendButton">Send</button>
+        </div>
+        
+        <div class="admin-panel">
+            <button id="updateDocs">Update Documentation</button>
+            <textarea id="newQuestion" placeholder="New question and answer (JSON format)"></textarea>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
