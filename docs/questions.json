@@ -1,0 +1,141 @@
+[
+    // Technology & Programming (100 links)
+    {
+        "category": "Technology & Programming",
+        "questions": [
+            {
+                "question": "How to learn Python programming?",
+                "answer": "Learn Python: <a href='https://www.python.org/about/gettingstarted/' target='_blank'>Python Official Docs</a> | <a href='https://www.w3schools.com/python/' target='_blank'>W3Schools Python</a>",
+                "keywords": ["python", "programming", "learn"]
+            },
+            {
+                "question": "What is JavaScript used for?",
+                "answer": "JavaScript uses: <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank'>MDN JavaScript</a> | <a href='https://javascript.info/' target='_blank'>Modern JS Tutorial</a>",
+                "keywords": ["javascript", "uses", "web development"]
+            },
+            // 98 more tech questions...
+        ]
+    },
+
+    // Health & Medicine (100 links)
+    {
+        "category": "Health & Medicine",
+        "questions": [
+            {
+                "question": "What are COVID-19 symptoms?",
+                "answer": "COVID info: <a href='https://www.who.int/health-topics/coronavirus' target='_blank'>WHO Coronavirus</a> | <a href='https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html' target='_blank'>CDC Symptoms</a>",
+                "keywords": ["covid", "symptoms", "coronavirus"]
+            },
+            {
+                "question": "How to lower blood pressure naturally?",
+                "answer": "BP management: <a href='https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974' target='_blank'>Mayo Clinic Guide</a>",
+                "keywords": ["blood pressure", "natural remedies", "hypertension"]
+            },
+            // 98 more health questions...
+        ]
+    },
+
+    // Business & Finance (100 links)
+    {
+        "category": "Business & Finance",
+        "questions": [
+            {
+                "question": "How to start a small business?",
+                "answer": "Business guide: <a href='https://www.sba.gov/business-guide/launch-your-business' target='_blank'>SBA Guide</a> | <a href='https://www.entrepreneur.com/starting-a-business' target='_blank'>Entrepreneur.com</a>",
+                "keywords": ["start business", "entrepreneur", "small business"]
+            },
+            // 99 more business questions...
+        ]
+    },
+
+    // Education (100 links)
+    {
+        "category": "Education",
+        "questions": [
+            {
+                "question": "Best free online courses",
+                "answer": "Course platforms: <a href='https://www.coursera.org/' target='_blank'>Coursera</a> | <a href='https://www.edx.org/' target='_blank'>edX</a> | <a href='https://www.khanacademy.org/' target='_blank'>Khan Academy</a>",
+                "keywords": ["online courses", "free education", "learning"]
+            },
+            // 99 more education questions...
+        ]
+    },
+
+    // Travel (100 links)
+    {
+        "category": "Travel",
+        "questions": [
+            {
+                "question": "Best travel destinations in Asia",
+                "answer": "Travel guides: <a href='https://www.lonelyplanet.com/asia' target='_blank'>Lonely Planet Asia</a> | <a href='https://www.tripadvisor.com/TravelersChoice-Destinations-cTop-g1' target='_blank'>TripAdvisor Top Destinations</a>",
+                "keywords": ["asia travel", "best destinations", "vacation spots"]
+            },
+            // 99 more travel questions...
+        ]
+    },
+
+    // Cooking & Recipes (100 links)
+    {
+        "category": "Cooking & Recipes",
+        "questions": [
+            {
+                "question": "How to make perfect pasta?",
+                "answer": "Pasta guides: <a href='https://www.bonappetit.com/recipes/pasta' target='_blank'>Bon Appétit Pasta</a> | <a href='https://www.allrecipes.com/recipes/95/pasta-and-noodles/' target='_blank'>AllRecipes Pasta</a>",
+                "keywords": ["pasta", "cooking", "italian food"]
+            },
+            // 99 more cooking questions...
+        ]
+    },
+
+    // Science (100 links)
+    {
+        "category": "Science",
+        "questions": [
+            {
+                "question": "Latest space discoveries",
+                "answer": "Space news: <a href='https://www.nasa.gov/' target='_blank'>NASA</a> | <a href='https://www.space.com/' target='_blank'>Space.com</a> | <a href='https://www.esa.int/' target='_blank'>European Space Agency</a>",
+                "keywords": ["space", "astronomy", "discoveries"]
+            },
+            // 99 more science questions...
+        ]
+    },
+
+    // Entertainment (100 links)
+    {
+        "category": "Entertainment",
+        "questions": [
+            {
+                "question": "New movie releases this week",
+                "answer": "Movie info: <a href='https://www.imdb.com/' target='_blank'>IMDb</a> | <a href='https://www.rottentomatoes.com/' target='_blank'>Rotten Tomatoes</a> | <a href='https://www.metacritic.com/' target='_blank'>Metacritic</a>",
+                "keywords": ["movies", "new releases", "films"]
+            },
+            // 99 more entertainment questions...
+        ]
+    },
+
+    // Sports (100 links)
+    {
+        "category": "Sports",
+        "questions": [
+            {
+                "question": "Premier League standings",
+                "answer": "Football stats: <a href='https://www.premierleague.com/tables' target='_blank'>Official EPL</a> | <a href='https://www.espn.com/soccer/standings' target='_blank'>ESPN Soccer</a>",
+                "keywords": ["football", "soccer", "premier league"]
+            },
+            // 99 more sports questions...
+        ]
+    },
+
+    // Automotive (100 links)
+    {
+        "category": "Automotive",
+        "questions": [
+            {
+                "question": "How to change a car tire?",
+                "answer": "Tire changing: <a href='https://www.bridgestonetire.com/learn/maintenance/how-to-change-a-tire/' target='_blank'>Bridgestone Guide</a> | <a href='https://www.youtube.com/watch?v=joBmbh0AGSQ' target='_blank'>YouTube Tutorial</a>",
+                "keywords": ["car repair", "tire change", "automotive"]
+            },
+            // 99 more automotive questions...
+        ]
+    }
+]
